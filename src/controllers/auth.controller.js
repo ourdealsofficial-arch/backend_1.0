@@ -1,7 +1,7 @@
 import User from "../models/user.js";
 import OrderBill from "../models/Order.js";
 import Food from "../models/Food.js";
-import Franchise from "../models/franchise.js";
+import Franchise from "../models/Franchise.js";
 import {
   generateToken,
   hashPassword,
